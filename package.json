@@ -1,0 +1,23 @@
+{
+  "name": "vista",
+  "version": "1.0.0",
+  "description": "This is a awesome js site",
+  "main": "vista.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisfat/vista.git"
+  },
+  "author": "Fatoyinbo Oluwafisayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisfat/vista/issues"
+  },
+  "homepage": "https://github.com/fisfat/vista#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express3-handlebars": "^0.5.2"
+  }
+}
